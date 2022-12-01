@@ -1,3 +1,3 @@
-# EDK6LAB2_Android
+Android2
 
 ![Screenshot](screenshot1.png)
