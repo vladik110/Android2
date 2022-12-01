@@ -1,3 +1,3 @@
 # EDK6LAB2_Android
 
-![Screenshot](result.png)
+![Screenshot](screenshot1.png)
